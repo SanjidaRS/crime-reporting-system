@@ -2,7 +2,6 @@ from datetime import datetime
 
 report_counter = 1
 
-
 def generate_report_id():
     global report_counter
 
